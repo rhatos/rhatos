@@ -3,6 +3,8 @@ I am a computer science major at the University of Cape Town. At the moment I'm 
 
 I however am more interested in things like game development and the actual theory of computer science. 
 
+My go-to stack right now is: Sveltekit, Typescript/JS, Prisma and Lucia.
+
 This is my GitHub page and there's not much on it yet :)
 
 <!---
